@@ -1,0 +1,239 @@
+
+
+body{
+    background: #E5E5E5;
+
+
+    
+    ;
+}
+
+
+.bg-primary-color-bg{
+    background-color:#264653;
+    ;
+
+
+}
+.header-othor-color{
+    width: 480px;
+    color:#E0E0E0;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+
+
+    
+}
+
+.btn-color{
+    color: #FFFFFF;
+
+    background: #E76F51;
+    width: 168px;
+    height: 44px;
+    left: 156px;
+    top: 413px;
+
+
+    border-radius: 5px;
+
+}
+
+/* main fetured baike stylesheet */
+
+.fetured-header{
+    color: #000000;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: 0px;
+    text-align: center;
+
+}
+
+.fetureed-p-color{
+    color:#E76F51;
+
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0px;
+    
+
+}
+.images-othor{
+    height: 243px;
+    width: 288px;
+    left: 156px;
+    top: 975px;
+    border-radius: 0px;
+
+
+}
+
+/* end fetured baike stylesheet */
+
+
+        /* latest news stylesheet */
+
+.latest-news{
+            color:#0A0826;
+            ;
+            font-family: Poppins;
+            font-size: 48px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 72px;
+            letter-spacing: 0em;
+            text-align: center;
+
+
+}
+
+.latest-news-img{
+    position: static;
+    
+    left: 0px;
+    top: 0px;
+
+    background: url(image.png);
+    border-radius: 10px;
+
+}
+
+
+.latest-news-othor{
+    height: 579px;
+width: 377px;
+top: 0px;
+border-radius: 10px;
+padding: 50px;
+
+}
+
+.latest-btn{
+    width: 160px;
+height: 57px;
+left: 0px;
+top: 482px;
+
+background: #E76F51;
+border-radius: 5px;
+
+}
+.card-text-color{
+    color:  #6C6C6C;
+
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+
+}
+
+.card-title{
+    font-family: Poppins;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#18191F;
+
+
+
+}
+
+/* happy clients property stylesheet */
+.text-center{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 72px;
+
+}
+.clinent-color{
+    color: #E76F51;
+    font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 72px;
+
+}
+.card-othor{
+    height: 478px;
+width: 322px;
+
+
+border-radius: 5px;
+padding: 40px;
+
+}
+
+.card-img-top{
+    position: static;
+    width: 149px;
+    height: 149px;
+    margin-left: 20px;
+    
+    top: 40px;
+
+}
+
+#far-fa-star{
+    color:#E77C40;
+    height: 18.34711456298828px;
+    width: 18.344575881958008px;
+    left: 1.8333740234375px;
+    top: 1.8326416015625px;
+    border-radius: 0px;
+    margin-left: 10px;
+    text-align: center;
+
+    
+    
+
+    
+}
+.regina-miles{
+    
+    text-decoration: none;
+
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    margin-left: 50px;
+
+}
+
+.bankar{
+    font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align:center;
+
+}
